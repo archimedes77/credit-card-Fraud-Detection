@@ -11,7 +11,7 @@ The increasing prevalence of online transactions and electronic payments has led
 ## Project Objectives
 The primary objectives of this project are as follows:
 1. **Understanding Credit Card Fraud:** Gain insight into various types of credit card fraud, their common characteristics, and the importance of detecting fraudulent activities.
-2. **Exploring Data Sources:** Identify and acquire relevant datasets containing credit card transaction information for both legitimate and fraudulent transactions.
+2. **Exploring Data Sources:** Identify and acquire relevant datasets containing credit card transaction information for both legitimate and fraudulent transactions. Dataset: <a href="https://www.kaggle.com/datasets/kartik2112/fraud-detection">Kaggle</a>
 3. **Data Preprocessing:** Clean, preprocess, and transform the acquired data into a suitable format for analysis and modeling.
 4. **Feature Extraction:** Investigate relevant features from the transaction data that can serve as inputs to the fraud detection model.
 5. **ML Algorithm Selection:** Study different machine learning and data mining algorithms suitable for fraud detection, including anomaly detection, clustering, and classification methods.
