@@ -1,7 +1,5 @@
-# School of Computer Science <br>
-KIIT <br>
-Course: Computer Networks (IT-3009) <br>
-Project Topic: Credit Card Fraud Detection System <br>
+# School of Computer Science <br> KIIT <br> Course: Computer Networks (IT-3009) <br> Project Topic: Credit Card Fraud Detection System <br>
+# Name: Archishman Biswas <br> Roll no.: 21051380 <br> Section: CSE - 12 
 
 # Credit Card Fraud Detection System
 
