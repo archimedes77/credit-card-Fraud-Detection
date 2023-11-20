@@ -3,6 +3,8 @@
 
 # Credit Card Fraud Detection System
 
+<img align="left" height="300px" src="https://cdni.iconscout.com/illustration/premium/thumb/mobile-credit-card-fraud-7451062-6103985.png"/>
+
 ## Introduction
 The increasing prevalence of online transactions and electronic payments has led to a surge in credit card fraud. As a response to this challenge, the field of computer networks has played a pivotal role in the development of sophisticated fraud detection systems. This project aims to explore the techniques and methodologies used in designing and implementing a Credit Card Fraud Detection System, leveraging the principles of computer networks and data analysis.
 
